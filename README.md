@@ -23,8 +23,7 @@ Slides are located in the Slides Folder
 ### Q/A
 https://app.sli.do/event/oNWyQKffZuJqRDusV5Ftar
 
-
-
-
+### Survey
+https://forms.gle/VmDhvNTCYAXqPL5t5
 
 
