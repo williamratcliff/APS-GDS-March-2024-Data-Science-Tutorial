@@ -21,6 +21,18 @@ Talat Rahman, University of Central Florida
 ### Q/A
 https://app.sli.do/event/oNWyQKffZuJqRDusV5Ftar
 
+### Slack
+https://tinyurl.com/bdfc69uz
+![image](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/assets/130521/127245d4-8c36-463d-8786-db46fd76457d)
+
+### GDS Business Meeting
+Session L02: GDS Business Meeting
+6:15 PM–7:15 PM, Tuesday, March 5, 2024Room: M100I
+![image](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/assets/130521/686793c3-9962-4f42-b7a1-07d27df17a79)
+
+### Additional Materials
+https://dsecop.org/
+
 ### Survey
 https://forms.gle/VmDhvNTCYAXqPL5t5
 
