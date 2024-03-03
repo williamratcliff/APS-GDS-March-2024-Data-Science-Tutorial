@@ -14,7 +14,7 @@ Talat Rahman, University of Central Florida
 - William Ratcliff, National Institute of Standards and Technology - Classification [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Classification) and Clustering [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Classification)
 ### II
 - Ching-Yao Lai, Stanford University - Physics-Informed Neural Networks [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/PINN)
-- Jan Funke, Howard Hughes Medical Institute Janelia Research Campus BioImage Segmentation - [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Segmentation)
+- Jan Funke, Howard Hughes Medical Institute Janelia Research Campus - BioImage Segmentation - [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Segmentation)
 - Arpan Biswas, University of Tennessee (UT-Oak Ridge Innovation Institute) - Bayesian Optimization [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/BO)
 - Chris Amey, Brandeis University
 
