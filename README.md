@@ -9,7 +9,7 @@ Talat Rahman, University of Central Florida
 
 ## Speakers
 ### I
-- Julie Butler, University of Mount Union - Data Exploration and Analysis [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/DataExplorationAndVisualization)
+- Julie Butler, University of Mount Union - Data Exploration and Visualization [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/DataExplorationAndVisualization)
 - Karan Shah, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf - Deep Learning/CNN [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/CNN)
 - William Ratcliff, National Institute of Standards and Technology - Classification [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Classification) and Clustering [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Classification)
 ### II
