@@ -1,6 +1,10 @@
 # Data Exploration And Visualization
 A tutorial on data exploration and visualization creating for the 2024 APS March Meeting.
 
+Author: Julie Butler (University of Mount Union)
+
+Email: butlerju@mountunion.edu
+
 ## Summary
 This tutorial is an introduction to data exploration and visualization using four Python libraries: [Pandas](https://pandas.pydata.org), [Seaborn](https://seaborn.pydata.org/index.html), [Matplotlib](https://matplotlib.org), and [Scikit-Learn](https://scikit-learn.org/stable/). Pandas is used for import a data file, as well as data exploration and manipulation. Seaborn and Matplotlib are used for data visualization. Scikit-Learn is used for modelling the data with simple machine learning models.
 
