@@ -15,7 +15,7 @@ Talat Rahman, University of Central Florida
 ### II
 - Ching-Yao Lai, Stanford University
 - Jan Funke, Howard Hughes Medical Institute Janelia Research Campus
-- Arpan Biswas, Oak Ridge National Laboratory and University of Texas
+- Arpan Biswas, University of Tennessee (UT-Oak Ridge Innovation Institute)
 - Chris Amey, Brandeis University
 
 Slides are located in the Slides Folder
