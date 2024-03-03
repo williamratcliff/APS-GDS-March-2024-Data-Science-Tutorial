@@ -16,7 +16,7 @@ Talat Rahman, University of Central Florida
 - Ching-Yao Lai, Stanford University - Physics-Informed Neural Networks [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/PINN)
 - Jan Funke, Howard Hughes Medical Institute Janelia Research Campus - BioImage Segmentation - [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/Segmentation)
 - Arpan Biswas, University of Tennessee (UT-Oak Ridge Innovation Institute) - Bayesian Optimization [Directory](https://github.com/williamratcliff/APS-GDS-March-2024-Data-Science-Tutorial/tree/main/BO)
-- Chris Amey, Brandeis University
+- Chris Amey, Brandeis University [Google Drive](https://drive.google.com/drive/folders/1SvfGKDihKN4gzvcpzkMvuaUxjL4TTJ4W?usp=drive_link) [Directory](https://github.com/camey-physics/March-Meeting-2024-SINDy-tutorial)
 
 ### Q/A
 https://app.sli.do/event/oNWyQKffZuJqRDusV5Ftar
